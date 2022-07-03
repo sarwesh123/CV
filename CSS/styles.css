@@ -20,8 +20,8 @@ width: 5%;
 
 img{
   
-  height: 100px;
-  width: 100px;
+  height: 1500px;
+  width: 1500px;
 }
 
 h1{
@@ -32,4 +32,7 @@ h1{
 h3
 {
   color: #EDD2F3;  
+}
+.repo{
+  text-align:centre;
 }
